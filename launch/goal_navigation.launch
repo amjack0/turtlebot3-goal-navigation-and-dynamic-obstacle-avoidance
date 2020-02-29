@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="mg_183368_prj" type="goal_navigation.py" name="goal_navigation" output="screen"/>
+
+</launch>
